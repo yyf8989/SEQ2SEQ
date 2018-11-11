@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="CNN_Net" />
+    <orderEntry type="module" module-name="VAE_Net" />
+    <orderEntry type="module" module-name="MLP_Net" />
+    <orderEntry type="module" module-name="Tensorboard_test" />
+    <orderEntry type="module" module-name="tensorflow_learn" />
+    <orderEntry type="module" module-name="tensorflow1024" />
+    <orderEntry type="module" module-name="MTNN" />
+    <orderEntry type="module" module-name="GAN" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GAN/.idea/GAN.iml" filepath="$PROJECT_DIR$/../GAN/.idea/GAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MTNN/.idea/MTNN.iml" filepath="$PROJECT_DIR$/../MTNN/.idea/MTNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow_learn/Tensorboard_test/.idea/Tensorboard_test.iml" filepath="$PROJECT_DIR$/../tensorflow_learn/Tensorboard_test/.idea/Tensorboard_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VAEnet/.idea/VAEnet.iml" filepath="$PROJECT_DIR$/../VAEnet/.idea/VAEnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cnn1017/.idea/cnn1017.iml" filepath="$PROJECT_DIR$/../cnn1017/.idea/cnn1017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deepai1015/.idea/deepai1015.iml" filepath="$PROJECT_DIR$/../deepai1015/.idea/deepai1015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/seq2seq.iml" filepath="$PROJECT_DIR$/.idea/seq2seq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow_learn/tensorflow1024/.idea/tensorflow1024.iml" filepath="$PROJECT_DIR$/../tensorflow_learn/tensorflow1024/.idea/tensorflow1024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow_learn/.idea/tensorflow_learn.iml" filepath="$PROJECT_DIR$/../tensorflow_learn/.idea/tensorflow_learn.iml" />
+    </modules>
+  </component>
+</project>

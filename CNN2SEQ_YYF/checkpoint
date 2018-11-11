@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Pycharmprojects\\seq2seq\\CNN2SEQ_YYF\\ckpt"
+all_model_checkpoint_paths: "E:\\Pycharmprojects\\seq2seq\\CNN2SEQ_YYF\\ckpt"
